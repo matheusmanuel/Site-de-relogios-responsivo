@@ -1,4 +1,4 @@
-# Responsive Watches Website ⌚
+# Site de relógios responsivo ⌚
 - Site de relógios responsivo usando HTML CSS e JavaScript
 - Rolagem suave em cada seção.
 - Inclui um modo escuro e claro.

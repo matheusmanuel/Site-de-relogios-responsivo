@@ -8,3 +8,6 @@
 ![preview img](/preview.png)
 
 #### [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
+
+## demo
+https://matheusmanuel.github.io/Site-de-relogios-responsivo/
